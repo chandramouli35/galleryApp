@@ -1,0 +1,13 @@
+/* Write your code here. */
+.thum {
+  height: 15vh;
+  border-radius: 10px;
+  margin: 5px;
+}
+.item {
+  list-style-type: none;
+}
+.but {
+  background-color: #ffffff;
+  border-width: 0px;
+}

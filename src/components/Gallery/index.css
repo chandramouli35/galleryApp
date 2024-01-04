@@ -1,0 +1,29 @@
+/* Write your code here. */
+.bgImage {
+  height: 60vh;
+  width: 50vw;
+  margin-left: 20vh;
+  border-radius: 10px;
+}
+.bgContainer {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  padding: 20px;
+}
+.heading {
+  color: #1e293b;
+  margin-left: 20vh;
+  font-size: 20px;
+}
+.para {
+  font-size: 18px;
+  color: #64748b;
+  margin-left: 20vh;
+}
+.thumbs {
+  display: flex;
+  margin-left: 12vh;
+  padding: 10px;
+}
